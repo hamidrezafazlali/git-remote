@@ -1,1 +1,3 @@
+some changes done in the feature branch
 the masteris changing the new.txt file
+
